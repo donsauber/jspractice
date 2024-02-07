@@ -1,3 +1,6 @@
+.outside {
+    text-align: center;
+}
 
 .button1 {
     background-color:red;
@@ -5,12 +8,12 @@
     border-radius: 14px;
     padding: 5px;
     transition-duration: 0.4s;
-
 }
 
 .button1:hover {
     background-color: darkred;
 }
+
 
 .button2 {
     background-color:blue;
@@ -18,12 +21,12 @@
     border-radius: 14px;
     padding: 5px;
     transition-duration: 0.4s;
-
 }
 
 .button2:hover {
     background-color: darkblue;
 }
+
 
 .button3 {
     background-color:black;
@@ -32,51 +35,50 @@
     border-radius: 14px;
     padding: 10px;
     transition-duration: 0.4s;
-
 }
 
 .button3:hover {
     color: white;
 }
 
-.button4 {
-    margin: auto;
-    background-color:black;
-    color:white;
-    font-size: 20px;
-    transition-duration: 0.4s;
-    display:block;
 
+
+.label1 {
+    background-color:black;
+    color:red;
+    font-size: 40px;
+    border-radius: 14px;
+    padding: 10px;
+    transition-duration: 0.4s;
 }
 
-.button4:hover {
+.label1:hover {
+    color: white;
+}
+
+
+.label2 {
+    border: 20 px;
+    background-color: black;
     color: red;
 }
 
-.button5 {
-    margin: auto;
-    background-color:blue;
-    color:white;
-    padding: 5px;
-    font-size: 15px;
-    border-radius: 14px;
-    transition-duration: 0.4s;
-    display:block;
-    width: 200px;
-
+.label2:hover {
+    color: white;
 }
 
-.button5:hover {
-    color: black;
+.label3 {
+    size:15px;
 }
 
-#phone{
+
+#textbox1 {
     width:300px;
     border-radius: 10px;
     height: 20px;
     border-color: black;
 }
 
-#phone:hover{
-    box-shadow: 10px;
+#textbox1:hover{
+    background-color: lightgrey;
 }
