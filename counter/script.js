@@ -1,4 +1,4 @@
-const targetDate = new Date('2024-02-06T04:34:00'); // Replace with target
+const targetDate = new Date('2024-03-06T04:34:00'); // Replace with target
 
 function updateCountdown() {
     const currentTime = new Date();
