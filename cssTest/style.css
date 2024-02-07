@@ -3,7 +3,7 @@
 }
 
 .button1 {
-    align: left;
+    text-align: left;
     background-color:red;
     color:white;
     border-radius: 14px;
@@ -17,7 +17,7 @@
 
 
 .button2 {
-    align: left;
+    text-align: left;
     background-color:blue;
     color:white;
     border-radius: 14px;
