@@ -1,0 +1,82 @@
+
+.button1 {
+    background-color:red;
+    color:white;
+    border-radius: 14px;
+    padding: 5px;
+    transition-duration: 0.4s;
+
+}
+
+.button1:hover {
+    background-color: darkred;
+}
+
+.button2 {
+    background-color:blue;
+    color:white;
+    border-radius: 14px;
+    padding: 5px;
+    transition-duration: 0.4s;
+
+}
+
+.button2:hover {
+    background-color: darkblue;
+}
+
+.button3 {
+    background-color:black;
+    color:red;
+    font-size: 40px;
+    border-radius: 14px;
+    padding: 10px;
+    transition-duration: 0.4s;
+
+}
+
+.button3:hover {
+    color: white;
+}
+
+.button4 {
+    margin: auto;
+    background-color:black;
+    color:white;
+    font-size: 20px;
+    transition-duration: 0.4s;
+    display:block;
+
+}
+
+.button4:hover {
+    color: red;
+}
+
+.button5 {
+    margin: auto;
+    background-color:blue;
+    color:white;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 14px;
+    transition-duration: 0.4s;
+    display:block;
+    width: 200px;
+
+}
+
+.button5:hover {
+    color: black;
+}
+
+#phone{
+    width:300px;
+    border-radius: 10px;
+    height: 20px;
+    border-color: black;
+}
+
+#phone:hover{
+    box-shadow: 10px;
+}
