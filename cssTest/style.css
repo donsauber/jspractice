@@ -1,3 +1,7 @@
+.outside {
+    text-align: center;
+}
+
 .button1 {
     text-align: left;
     background-color:red;
@@ -23,9 +27,6 @@
 
 .button2:hover {
     background-color: darkblue;
-}
-.outside {
-    text-align: center;
 }
 
 .button3 {
